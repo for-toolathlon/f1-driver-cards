@@ -1,6 +1,6 @@
 # Fernando Alonso
 
-Spanish racing driver, a relentless professional who never refused to get into India behind the wheel.
+Spanish racing driver.
 
 - Three-letter race code: ALO
 - Permanent car number: 14
@@ -9,6 +9,5 @@ Spanish racing driver, a relentless professional who never refused to get into I
 
 ## 2024 championship
 
-**2024 final position: 9th**
-
+2024 final position: 9th
 2024 totals: 70 pts
