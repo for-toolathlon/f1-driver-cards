@@ -9,6 +9,5 @@ British racing driver.
 
 ## 2024 championship
 
-**2024 final position: 7th**
-
-2024 totals: 222 pts
+2024 final position: 7th
+2024 totals: 223 pts
