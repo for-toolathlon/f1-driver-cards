@@ -1,6 +1,6 @@
 # Max Verstappen
 
-Dutch-born front-runner and defending world champion is back even better in 2024, taking the constructors' title in his first year as a lone driver and clinching the driver championship one race before its end.
+Dutch racing driver.
 
 - Three-letter race code: VER
 - Permanent car number: 3
@@ -9,6 +9,5 @@ Dutch-born front-runner and defending world champion is back even better in 2024
 
 ## 2024 championship
 
-**2024 final position: 1st**
-
+2024 final position: 1st
 2024 totals: 437 pts
