@@ -1,13 +1,15 @@
 # Lando Norris
 
-British racing driver.
-
+## Career Profile
+- Full name: Lando Norris
 - Three-letter race code: NOR
 - Permanent car number: 1
-- Date of birth: 13 November 1999
+- Date of birth: 1999-11-13
 - Nationality: British
 
-## 2024 championship
+## 2024 Drivers' Championship
+- Final finishing position: 2nd
+- Points: 374
 
-2024 final position: 2nd
-2024 totals: 374 pts
+## Details
+- Driver ID: norris

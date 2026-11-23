@@ -1,13 +1,15 @@
 # Fernando Alonso
 
-Spanish racing driver.
-
+## Career Profile
+- Full name: Fernando Alonso
 - Three-letter race code: ALO
 - Permanent car number: 14
-- Date of birth: 29 July 1981
+- Date of birth: 1981-07-29
 - Nationality: Spanish
 
-## 2024 championship
+## 2024 Drivers' Championship
+- Final finishing position: 9th
+- Points: 70
 
-2024 final position: 9th
-2024 totals: 70 pts
+## Details
+- Driver ID: alonso
