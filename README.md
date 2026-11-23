@@ -1,16 +1,16 @@
 # f1-driver-cards
 
-Driver cards for the 2024 F1 season
+Driver cards for the 2024 F1 season.
 
 ## Drivers
 
-- **Max Verstappen** (permanent number 3, code VER) — 2024 final position: 1st, 437 pts
-- **Lando Norris** (permanent number 1, code NOR) — 2024 final position: 2nd, 374 pts
-- **Charles Leclerc** (permanent number 16, code LEC) — 2024 final position: 3rd, 356 pts
-- **Lewis Hamilton** (permanent number 44, code HAM) — 2024 final position: 7th, 437 pts
-- **Fernando Alonso** (permanent number 14, code ALO) — 2024 final position: 9th, 70 pts
+- **Lewis Hamilton** (number 44, code HAM) — 2024 final position: 7th, 437 pts
+- **Max Verstappen** (number 3, code VER) — 2024 final position: 1st, 437 pts
+- **Charles Leclerc** (number 16, code LEC) — 2024 final position: 3rd, 356 pts
+- **Lando Norris** (number 1, code NOR) — 2024 final position: 2nd, 374 pts
+- **Fernando Alonso** (number 14, code ALO) — 2024 final position: 9th, 70 pts
 
-## 2024 drivers' championship (final positions)
+## 2024 drivers' championship
 
 - Max Verstappen — 1st, 437 pts
 - Lando Norris — 2nd, 374 pts
@@ -20,4 +20,8 @@ Driver cards for the 2024 F1 season
 
 ## 2024 constructors' championship
 
-**Red Bull** were the 2024 constructors' champions.
+**Red Bull** won the 2024 constructors' championship with 666 points.
+
+## Per-driver files
+
+Each driver has a markdown file named after the driver (e.g. `hamilton.md`) with their profile and 2024 championship position/points.
